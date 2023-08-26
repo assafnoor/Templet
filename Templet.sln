@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Templet", "Templet\Templet.csproj", "{0C375B92-74A7-4093-92C4-C244E00DFD08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Templet.EF", "Templet.EF\Templet.EF.csproj", "{F0E986DC-7366-4D25-A962-4116C5AD4EB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Templet.Core", "Templet.Core\Templet.Core.csproj", "{10CEB1C4-884B-49B2-9F6F-F54D959164A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C375B92-74A7-4093-92C4-C244E00DFD08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C375B92-74A7-4093-92C4-C244E00DFD08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C375B92-74A7-4093-92C4-C244E00DFD08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C375B92-74A7-4093-92C4-C244E00DFD08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0E986DC-7366-4D25-A962-4116C5AD4EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E986DC-7366-4D25-A962-4116C5AD4EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E986DC-7366-4D25-A962-4116C5AD4EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E986DC-7366-4D25-A962-4116C5AD4EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10CEB1C4-884B-49B2-9F6F-F54D959164A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CEB1C4-884B-49B2-9F6F-F54D959164A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CEB1C4-884B-49B2-9F6F-F54D959164A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CEB1C4-884B-49B2-9F6F-F54D959164A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F02180BD-8253-4307-BAD6-3BAFC499E2AA}
+	EndGlobalSection
+EndGlobal
